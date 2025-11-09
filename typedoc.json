@@ -1,0 +1,20 @@
+{
+  "entryPoints": ["./src/index.d.ts"],
+  "out": "docs",
+
+  /* === Exclusiones === */
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "excludeExternals": true,
+
+  /* === Opciones de salida === */
+  "includeVersion": false,
+  "hideGenerator": true,
+  "categorizeByGroup": false,
+  "sort": ["source-order"],
+
+  /* === nose XD  === */
+  "plugin": ["typedoc-plugin-markdown"],
+  "readme": "none",
+  "theme": "default"
+}

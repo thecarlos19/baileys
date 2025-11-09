@@ -1,0 +1,108 @@
+{
+  "name": "Baileys",
+  "version": "6.8.5",
+  "description": "Custom Baileys WhatsApp API",
+  "keywords": [
+    "baileys", "whatsapp",
+    "js-whatsapp", "whatsapp-api",
+    "whatsapp-web", "whatsapp-bot",
+    "automation", "multi-device"
+  ],
+  "homepage": "https://github.com/thecarlos19/black-clover-MD#readme",
+  "repository": {
+    "url": "git@github.com/thecarlos19/baileys.git"
+  },
+  "license": "MIT-License",
+  "author": "thecarlos19",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/*",
+    "WAProto/*",
+    "engine-requirements.js"
+  ],
+  "scripts": {
+    "build:all": "tsc && typedoc",
+    "build:docs": "typedoc",
+    "build:tsc": "tsc",
+    "changelog:last": "conventional-changelog -p angular -r 2",
+    "changelog:preview": "conventional-changelog -p angular -u",
+    "changelog:update": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "example": "node --inspect -r ts-node/register Example/example.ts",
+    "gen:protobuf": "sh WAProto/GenerateStatics.sh",
+    "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
+    "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
+    "prepack": "tsc",
+    "prepare": "tsc",
+    "preinstall": "node ./engine-requirements.js",
+    "release": "release-it",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.3.0",
+    "@cacheable/node-cache": "^1.6.0",
+    "@hapi/boom": "^10.0.3",
+    "async-mutex": "^0.5.4",
+    "axios": "^1.9.1",
+    "cache-manager": "^6.2.0",
+    "cheerio": "^1.0.1",
+    "libphonenumber-js": "^1.11.16",
+    "libsignal": "github:thecarlos19/libsignal-node",
+    "lodash": "^4.17.21",
+    "music-metadata": "^7.15.0",
+    "pino": "^9.8.0",
+    "protobufjs": "^7.4.1",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "@thecarlos19/eslint-config": "github:thecarlos19/eslint-config",
+    "@types/got": "^9.6.13",
+    "@types/jest": "^29.6.8",
+    "@types/node": "^22.10.2",
+    "@types/sharp": "^0.32.2",
+    "@types/ws": "^8.5.13",
+    "conventional-changelog-cli": "^4.3.1",
+    "eslint": "^9.18.0",
+    "jest": "^30.1.0",
+    "jimp": "^0.22.12",
+    "json": "^11.1.0",
+    "link-preview-js": "^3.1.1",
+    "open": "^10.2.0",
+    "qrcode-terminal": "^0.13.2",
+    "release-it": "^17.6.0",
+    "sharp": "^0.34.3",
+    "ts-jest": "^29.2.7",
+    "ts-node": "^10.9.3",
+    "typedoc": "^0.27.13",
+    "typescript": "^5.7.3"
+  },
+  "peerDependencies": {
+    "audio-decode": "^3.0.0",
+    "jimp": "^0.22.12",
+    "link-preview-js": "^3.1.1",
+    "qrcode-terminal": "^0.13.2",
+    "sharp": "^0.34.3"
+  },
+  "peerDependenciesMeta": {
+    "audio-decode": {
+      "optional": true
+    },
+    "jimp": {
+      "optional": true
+    },
+    "link-preview-js": {
+      "optional": true
+    },
+    "qrcode-terminal": {
+      "optional": true
+    },
+    "sharp": {
+      "optional": true
+    }
+  },
+  "packageManager": "yarn@1.22.22",
+  "engines": {
+    "node": ">=23.0.0"
+  }
+}

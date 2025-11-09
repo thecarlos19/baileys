@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    /* === Salida y compatibilidad === */
+    "target": "ES2022",                      
+    "module": "CommonJS",
+    "outDir": "lib",
+    "lib": ["ES2022", "ESNext.Array", "DOM"],
+    
+    /* === Decoradores y características === */
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    
+    /* === Seguridad de tipos === */
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "forceConsistentCasingInFileNames": true,
+    
+    /* === Interoperabilidad === */
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    
+    /* === Verificación de código === */
+    "skipLibCheck": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+
+    /* === Archivos JS / TS === */
+    "allowJs": false,
+    "checkJs": false,
+    "declaration": true,
+    
+    /* === Mejoras adicionales === */
+    "moduleResolution": "node",
+    "newLine": "lf"
+  },
+  "include": ["./lib/**/*.ts"],
+  "exclude": ["node_modules", "lib/Tests/*", "lib/Binary/GenerateStatics.ts"]
+}
