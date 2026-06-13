@@ -85,12 +85,12 @@
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-💻 Instalar por Termux 2026
+💻 Instalar por Termux 
 
 <details>
 <summary><b>📲 Ver comandos para Termux</b></summary>
 
-🚀 Instalación Rápida 2026
+🚀 Instalación Rápida 
 
 ```bash
 termux-setup-storage
@@ -118,7 +118,11 @@ Estos comandos hacen respaldo automático de `database.json` antes de actualizar
 
 !https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif
 
-☁️ Instalar desde Cloud Shell 2026
+</details>
+
+☁️ Instalar desde Cloud Shell 
+
+```bash
 
 <details>
 <summary><b>🌀 Ver comandos para Cloud Shell</b></summary>
