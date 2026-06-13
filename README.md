@@ -197,8 +197,7 @@ npm start
 |------|-------------|--------|
 | 📱 WhatsApp Canal Oficial | Noticias y updates 2026 | [¡Unirse!](https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04) |
 | 👥 Grupo de Soporte | Comunidad y ayuda 24/7 | [¡Entrar!](https://chat.whatsapp.com/HBJ8BniXgtNHfiLQFKwrcV?mode=wwt) |
-| 🎥 YouTube | Tutoriales y novedades | [¡Suscribirse!](https://youtube.com/@thecarlos19) |
-| 💻 GitHub | Código fuente oficial | [¡Ver Repo!](https://github.com/thecarlos19/black-clover-MD) |
+| 🎥 YouTube | Tutoriales y novedades | [¡Suscribirse!](https://youtube.com/@thecarlos19) 
 
 [line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
