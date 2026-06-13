@@ -1,6 +1,6 @@
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=1E90FF&center=falso&vCenter=falso&lines=🜛+𝐁𝐋𝐀𝐂𝐊+𝐂𝐋𝐎𝐕𝐄𝐑+𝐕777+𝟐𝟎𝟐𝟔+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+𝟐𝟎𝟐𝟔+۞;@Thecarlos✞">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0000FF&center=falso&vCenter=falso&lines=🜛+𝐁𝐋𝐀𝐂𝐊+𝐂𝐋𝐎𝐕𝐄𝐑+𝐕777+🜛;۞+𝐎𝐅𝐂+𝐔𝐏𝐃𝐀𝐓𝐄+۞;@Thecarlos✞">
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
@@ -191,49 +191,62 @@ npm start
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-## 🔗 Enlaces oficiales 2026
+## 🔗 Enlaces Oficiales 2026
 
 | APP | TIPO | ENLACE |
-|------|-------------|--------|
-| 📱 WhatsApp Canal Oficial | Noticias y updates 2026 | [¡Unirse!](https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04) |
+|------|----------------------|--------|
+| 📱 WhatsApp Canal Oficial | Noticias y actualizaciones 2026 | [¡Unirse!](https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04) |
 | 👥 Grupo de Soporte | Comunidad y ayuda 24/7 | [¡Entrar!](https://chat.whatsapp.com/HBJ8BniXgtNHfiLQFKwrcV?mode=wwt) |
-| 🎥 YouTube | Tutoriales y novedades | [¡Suscribirse!](https://youtube.com/@thecarlos19) 
-
-[line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
-
-## 👤 Creador del proyecto
-
-<a href="https://github.com/thecarlos19">
-  <img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/>
-</a>
+| 🎥 YouTube | Tutoriales y novedades | [¡Suscribirse!](https://youtube.com/@thecarlos19) |
 
 <p align="center">
-<img src="https://img.shields.io/badge/DEV-Carlos_OFC-1E90FF?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/UPDATE-2026-00BFFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF7F?style=for-the-badge">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </p>
 
-[line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+# 👤 Creador del Proyecto
 
-### 🌐 Redes sociales del creador
+<p align="center">
+  <a href="https://github.com/thecarlos19">
+    <img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DEV-Carlos_OFC-1E90FF?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/UPDATE-2026-00BFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF7F?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</p>
+
+## 🌐 Redes Sociales del Creador
 
 <p align="center">
   <a href="https://instagram.com/_carlitos.zx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40_carlitos.zx-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
   <a href="https://www.tiktok.com/@_carlitos.zx" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%40_thecarlos.ok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
+
   <a href="https://youtube.com/@thecarlos19" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-TheCarlos19-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+
   <a href="https://wa.me/525544876071" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
-[line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+<p align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</p>
 
-🔋 *Powered by* [**The Legends 2026** ⚡](https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04)
+<p align="center">
+  🔋 <b>Powered by <a href="https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04">The Legends 2026 ⚡</a></b>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=1E90FF&center=falso&vCenter=falso&lines=✞+𝐁𝐋𝐀𝐂𝐊+𝐂𝐋𝐎𝐕𝐄𝐑+𝐒𝐘𝐒𝐓𝐄𝐌+𝟐𝟎𝟐𝟔+֎">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=0000FF&center=falso&vCenter=falso&lines=✞+𝐁𝐋𝐀𝐂𝐊+𝐂𝐋𝐎𝐕𝐄𝐑+𝐒𝐘𝐒𝐓𝐄𝐌+֎">
