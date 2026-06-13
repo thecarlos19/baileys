@@ -10,7 +10,7 @@
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-<h1 align="center">Black - Clover V777</h1>
+<h1 align="center">Black - Clover</h1>
 <p align="center">
   <img src="https://files.catbox.moe/30f5ik.jpg" width="300" alt="Black Clover">
 </p>
@@ -74,83 +74,149 @@
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-🌐 **¡INSTALA BLACK CLOVER EN [SKYULTRAPLUS](https://panel2.skyultraplus.com/) HOST 2026!**
+🌐 **¡PUEDES INSTALAR EL BOT EN ALGÚN [HOSTING](https://panel2.skyultraplus.com/)!**
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-📲 Click en la imagen para obtener Termux
+### 📲 Click en la imagen para obtener Termux
 <a href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a">
   <img src="https://qu.ax/finc.jpg" height="125px">
 </a>
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-💻 Instalar por Termux 
+### 💻 Instalar por Termux
 
 <details>
-<summary><b>📲 Ver comandos para Termux</b></summary>
+<summary><b>📲  Ver comandos para Termux</b></summary>
 
-🚀 Instalación Rápida 
+## 🚀 Instalación Rápida
 
 ```bash
 termux-setup-storage
-apt update && apt upgrade && pkg install -y git nodejs-lts ffmpeg imagemagick yarn
-git clone https://github.com/thecarlos19/black-clover-MD
-cd black-clover-MD
-yarn install
+```
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+```bash
+git clone https://github.com/thecarlos19/black-clover-MD 
+
+```
+```bash
+cd black-clover-MD 
+```
+```bash
+npm install
+```
+
+```bash
 npm start
-> _Si aparece *(Y/I/N/O/D/Z) [default=N]?* usa la letra *"y"* + *"ENTER"* para continuar._
+```
+
+> *Si aparece **(Y/I/N/O/D/Z) [default=N] ?** use la letra **"y"** y luego **"ENTER"** para continuar con la instalación del mejor bot.*
 </details>
 
 <details>
 <summary><b>💻 ACTIVAR EN TERMUX EN CASO DE DETENERSE</b></summary>
-cd && cd black-clover-MD && npm start
-🧿 *`OBTENER OTRO CODIGO QR`*
-cd black-clover-MD && rm -rf Seccion-activas && npm start
-🔮 *`ACTIVAR 24/7 EN TERMUX`*
-termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-📤 *`ACTUALIZAR BLACK CLOVER 2026`*
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/thecarlos19/black-clover-MD/master/termux.sh | bash
-Estos comandos hacen respaldo automático de `database.json` antes de actualizar.
-
-> Warning: Solo TERMUX, REPLIT, LINUX
-</details>
-
-!https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif
-
-</details>
-
-☁️ Instalar desde Cloud Shell 
 
 ```bash
+cd 
+```
 
-<details>
-<summary><b>🌀 Ver comandos para Cloud Shell</b></summary>
-apt update && apt upgrade
-git clone https://github.com/thecarlos19/black-clover-MD && cd black-clover-MD
-yarn install && npm install
+```bash
+cd black-clover-MD
+```
+
+```bash
 npm start
-✅ ¡Bot listo para usarse! El mejor bot de WhatsApp 2026 🥷
+```
+
+🧿 **`OBTENER OTRO CODIGO QR`**
+
+>ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO
+
+```bash
+cd black-clover-MD
+```
+
+```bash
+rm -rf Seccion-activas
+```
+```bash
+npm start
+```
+
+🔮 **`ACTIVAR 24/7 EN  TERMUX`**
+```bash
+termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
+```
+
+📤 **`ACTUALIZAR BLACK CLOVER`**
+> Comandos para actualizar BLACK CLOVER de forma automática en termux 
+
+```bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/thecarlos19/black-clover-MD'/master/termux.sh | bash
+```
+Para que no pierda su progreso, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+
+> Warning Estos comandos solo funcionan para TERMUX, REPLIT, LINUX
 </details>
 
-!https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-🔗 Enlaces oficiales 2026
-APP	TIPO	ENLACE
-📱 WhatsApp Canal Oficial	Noticias y updates 2026	https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04
-👥 Grupo de Soporte	Comunidad y ayuda 24/7	https://chat.whatsapp.com/HBJ8BniXgtNHfiLQFKwrcV?mode=wwt
-🎥 YouTube	Tutoriales	https://youtube.com/@thecarlos19
-!https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif
+### ☁️ Instalar desde Cloud Shell
 
-👤 Creador del proyecto
+<details>
+<summary><b>🌀  Ver comandos para Cloud Shell</b></summary>
+
+```bash
+apt update && apt upgrade
+```
+
+```bash
+git clone https://github.com/thecarlos19/black-clover-MD && cd black-clover-MD
+```
+
+```bash
+yarn install && npm install
+```
+
+```bash
+npm start
+```
+
+✅ ¡Bot listo para usarse! El mejor bot de WhatsApp 🥷
+</details>
+
+
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+## 🔗 Enlaces oficiales 2026
+
+| APP | TIPO | ENLACE |
+|------|-------------|--------|
+| 📱 WhatsApp Canal Oficial | Noticias y updates 2026 | [¡Unirse!](https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04) |
+| 👥 Grupo de Soporte | Comunidad y ayuda 24/7 | [¡Entrar!](https://chat.whatsapp.com/HBJ8BniXgtNHfiLQFKwrcV?mode=wwt) |
+| 🎥 YouTube | Tutoriales y novedades | [¡Suscribirse!](https://youtube.com/@thecarlos19) |
+| 💻 GitHub | Código fuente oficial | [¡Ver Repo!](https://github.com/thecarlos19/black-clover-MD) |
+
+[line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+## 👤 Creador del proyecto
 
 <a href="https://github.com/thecarlos19">
   <img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/>
 </a>
 
-!https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif
+<p align="center">
+<img src="https://img.shields.io/badge/DEV-Carlos_OFC-1E90FF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/UPDATE-2026-00BFFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF7F?style=for-the-badge">
+</p>
 
-🌐 Redes sociales del creador
+[line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+### 🌐 Redes sociales del creador
 
 <p align="center">
   <a href="https://instagram.com/_carlitos.zx" target="_blank">
@@ -162,10 +228,13 @@ APP	TIPO	ENLACE
   <a href="https://youtube.com/@thecarlos19" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-TheCarlos19-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+  <a href="https://wa.me/525544876071" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
-!https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif
+[line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-🔋 _Powered by_ https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04
+🔋 *Powered by* [**The Legends 2026** ⚡](https://whatsapp.com/channel/0029VbB36XC8aKvQevh8Bp04)
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=1E90FF&center=falso&vCenter=falso&lines=✞+𝐁𝐋𝐀𝐂𝐊+𝐂𝐋𝐎𝐕𝐄𝐑+𝐒𝐘𝐒𝐓𝐄𝐌+𝟐𝟎𝟐𝟔+֎">
